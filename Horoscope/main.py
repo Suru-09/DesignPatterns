@@ -1,8 +1,7 @@
-from utils.Menu import Menu
+from utils.Menu import run_menu
 
 if __name__ == '__main__':
-    menu_obj = Menu()
-    menu_obj.run_menu()
+    run_menu()
 
 
 
