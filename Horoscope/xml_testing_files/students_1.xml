@@ -1,39 +1,36 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <students>
     <student>
-        <name> Georgel </name>
+        <name>Mario</name>
     </student>
-
     <student>
-        <name> Miruna </name>
+        <name>Marcel</name>
     </student>
-
     <student>
-        <name> Alin </name>
+        <name>Georgel</name>
     </student>
-
     <student>
-        <name> Adelina </name>
+        <name>Miruna</name>
     </student>
-
     <student>
-        <name> Cristi </name>
+        <name>Alin</name>
     </student>
-
     <student>
-        <name> Verisoru </name>
+        <name>Adelina</name>
     </student>
-
     <student>
-        <name> Catalina </name>
+        <name>Cristi</name>
     </student>
-
     <student>
-        <name> Catalin </name>
+        <name>Verisoru</name>
     </student>
-
     <student>
-        <name> Dorian </name>
+        <name>Catalina</name>
     </student>
-
+    <student>
+        <name>Catalin</name>
+    </student>
+    <student>
+        <name>Dorian</name>
+    </student>
 </students>

@@ -10,3 +10,11 @@ class StudentRepoSql(StudentRepoBase, ABC):
 
     def get_all_students(self):
         return self.__sql_repo.get_students_from_db()
+
+    def get_student_after_name(self, name):
+        return self.__sql_repo.get_student_after_name(name)
+
+    def add_student(self, student):
+        self.__sql_repo.add_student_in_database(student)
+
+

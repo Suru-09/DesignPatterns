@@ -15,3 +15,11 @@
 ```
     We can add a new type of factory in DaoFactory.py class
 ```
+
+## NOTE
+
+---------------------------------
+1. In order to run this program just:
+    ```bash
+        python3 -m main.py
+    ```
