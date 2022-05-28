@@ -2,11 +2,11 @@ from abc import ABC
 import xml.etree.ElementTree as ET
 
 
-from data_source.StudentRepoBase import StudentRepoBase
+from data_source.IStudentRepoBase import IStudentRepoBase
 from student.Student import Student
 
 
-class StudentRepoXML(StudentRepoBase, ABC):
+class StudentRepoXML(IStudentRepoBase, ABC):
     def __init__(self, file_path):
         self.__file_path = file_path
         self.__tree = ET.parse(file_path)
