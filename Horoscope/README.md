@@ -21,5 +21,5 @@
 ---------------------------------
 1. In order to run this program just:
     ```bash
-        python3 -m main.py
+        python3 -m main
     ```
