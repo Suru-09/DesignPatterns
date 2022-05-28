@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <student>
+        <name> Georgel </name>
+    </student>
+
+    <student>
+        <name> Miruna </name>
+    </student>
+
+    <student>
+        <name> Alin </name>
+    </student>
+
+    <student>
+        <name> Adelina </name>
+    </student>
+
+    <student>
+        <name> Cristi </name>
+    </student>
+
+    <student>
+        <name> Verisoru </name>
+    </student>
+
+    <student>
+        <name> Catalina </name>
+    </student>
+
+    <student>
+        <name> Catalin </name>
+    </student>
+
+    <student>
+        <name> Dorian </name>
+    </student>
+
+</students>
